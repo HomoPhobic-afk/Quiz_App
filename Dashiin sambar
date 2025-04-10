@@ -1,58 +1,42 @@
 [
   {
-    "question": "Where is this landmark?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
-    "options": ["Paris", "London", "New York", "Rome"],
-    "answer": "Paris",
-    "fact": "The Eiffel Tower was originally meant to be dismantled after 20 years."
+
   },
   {
-    "question": "Which country is home to this landmark?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1200px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
-    "options": ["China", "Japan", "South Korea", "India"],
-    "answer": "China",
-    "fact": "The Great Wall of China stretches over 13,000 miles!"
+
   },
   {
-    "question": "Where is this ancient structure located?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg",
-    "options": ["Rome", "Athens", "Istanbul", "Madrid"],
-    "answer": "Rome",
-    "fact": "The Colosseum could hold up to 80,000 spectators in its prime."
+
   },
   {
-    "question": "Where can you find this famous statue?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg/640px-Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg",
-    "options": ["USA", "France", "Brazil", "Russia"],
-    "answer": "USA",
-    "fact": "The Statue of Liberty was a gift from France to the United States in 1886."
+
   },
   {
-    "question": "Which country is home to this stunning temple?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20171126_Angkor_Wat_4712_DxO.jpg/800px-20171126_Angkor_Wat_4712_DxO.jpg",
-    "options": ["Cambodia", "Thailand", "Vietnam", "Indonesia"],
-    "answer": "Cambodia",
-    "fact": "Angkor Wat is the largest religious monument in the world."
+
   },
   {
-    "question": "Which city is this iconic bridge located in?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2179.jpg",
-    "options": ["Sydney", "Los Angeles", "Dubai", "Cape Town"],
-    "answer": "Sydney",
-    "fact": "The Sydney Harbour Bridge is nicknamed 'The Coathanger' due to its arch shape."
+
   },
   {
-    "question": "Where can you see these famous statues?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/AhuTongariki.JPG",
-    "options": ["Easter Island", "Hawaii", "New Zealand", "Chile"],
-    "answer": "Easter Island",
-    "fact": "Easter Island's Moai statues were carved by the Rapa Nui people between 1250 and 1500 AD."
+
   },
   {
-    "question": "Where is this grand palace located?",
+
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Buckingham_Palace_UK.jpg/1200px-Buckingham_Palace_UK.jpg",
-    "options": ["United Kingdom", "France", "Spain", "Germany"],
-    "answer": "United Kingdom",
-    "fact": "Buckingham Palace has 775 rooms, including 78 bathrooms."
+
   }
 ]
